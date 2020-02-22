@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="18px" viewBox="0 0 16 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Visual-Logistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.-Quản-lý-vận-chuyển" transform="translate(-1326.000000, -21.000000)" fill="#717286" fill-rule="nonzero">
+            <path d="M1334,39 C1335.03529,39 1335.88235,38.19 1335.88235,37.2 L1332.11765,37.2 C1332.11765,38.19 1332.96471,39 1334,39 Z M1340.11765,33.6 L1340.11765,28.65 C1340.11765,25.86 1338.14118,23.61 1335.41176,22.98 L1335.41176,22.35 C1335.41176,21.63 1334.75294,21 1334,21 C1333.24706,21 1332.58824,21.63 1332.58824,22.35 L1332.58824,22.98 C1329.85882,23.61 1327.88235,25.86 1327.88235,28.65 L1327.88235,33.6 L1326,35.4 L1326,36.3 L1342,36.3 L1342,35.4 L1340.11765,33.6 Z M1338.23529,34.5 L1329.76471,34.5 L1329.76471,28.65 C1329.76471,26.4 1331.64706,24.6 1334,24.6 C1336.35294,24.6 1338.23529,26.4 1338.23529,28.65 L1338.23529,34.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

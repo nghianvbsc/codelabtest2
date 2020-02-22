@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!--[if IE 8 ]>
+<html class="ie" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+<head>
+    <!-- Basic Page Needs -->
+    <meta charset="UTF-8">
+    <!--[if IE]>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <title>Hamed Logitics</title>
+
+    <meta name="author" content="dns.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Boostrap style -->
+    <link rel="stylesheet" type="text/css" href="/template/ui/stylesheet/bootstrap.css">
+
+    <!-- Theme style -->
+    <link rel="stylesheet" type="text/css" href="/template/ui/stylesheet/style.css">
+
+    <!-- Reponsive -->
+    <link rel="stylesheet" type="text/css" href="/template/ui/stylesheet/responsive.css">
+
+    <!-- Favicon and touch icons  -->
+    <link href="/template/ui/icon/favicon.ico" rel="shortcut icon">
+
+    <link rel="stylesheet"
+          href="/template/sweetalert2.css?v=<%- cacheVersion %>">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js?v=<%- cacheVersion %>"></script>
+</head>
+<body>
+<div class="boxed">
+    <!-- Preloader -->
+    <div id="preloader">
+        <div class="row loader">
+            <div class="loader-icon"></div>
+        </div>
+    </div>
+
+    <div class="sec_account d-flex v-center">
+        <div class="col_6">
+            <div class="banner">
+                <img src="/template/ui/images/log/img-banner.png" alt="">
+            </div>
+        </div>
+        <div class="col_6 content-box">
+            <div class="inner-box">
+                <div class="logo">
+                    <a href="/">
+                        <img src="/template/ui/images/logo.png" alt="Hamed">
+                    </a>
+                </div>
+                <div class="form-account">
+                    <div class="form-title">
+                        Đăng nhập
+                    </div>
+                    <form action="/" sRedirect='/thong-tin-tai-khoan.html' method="POST" accept-charset="utf-8" class="baseFormRequest">
+                        <div class="field-row">
+                            <label for="">Tài khoản</label>
+                            <input type="text" placeholder="Nhập tài khoản" name="userName">
+                        </div>
+                        <div class="field-row">
+                            <label for="">Mật khẩu</label>
+                            <input type="password" placeholder="Nhập mật khẩu" name="password">
+                        </div>
+                        <div class="field-row">
+                            <button type="submit">ĐĂNG NHẬP</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="forget-account text-center">
+                <a href="/quen-mat-khau.html">Quên mật khẩu?</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="/template/ui/javascript/jquery.min.js?v=<%- cacheVersion %>"></script>
+<script type="text/javascript" src="/template/ui/javascript/bootstrap.min.js?v=<%- cacheVersion %>"></script>
+<script type="text/javascript" src="/template/ui/javascript/jquery.easing.js?v=<%- cacheVersion %>"></script>
+<script type="text/javascript" src="/template/ui/javascript/main.js?v=<%- cacheVersion %>"></script>
+<script type="text/javascript" src="/template/app.js?v=<%- cacheVersion %>"></script>
+<script type="text/javascript" src="/template/base.form.submit.js?v=<%- cacheVersion %>"></script>
+
+</body>
+</html>

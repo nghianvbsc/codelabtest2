@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="9px" viewBox="0 0 12 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Visual-Logistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="09.-Quản-lý-đơn-hàng---Chi-tiết-đã-thanh-toán" transform="translate(-1361.000000, -652.000000)" fill="#FDFDFD">
+            <g id="Group-11" transform="translate(895.000000, 583.000000)">
+                <g id="Group-9" transform="translate(460.000000, 62.000000)">
+                    <path d="M6.13846154,11.95 C6.04615385,11.86 6,11.725 6,11.635 C6,11.545 6.04615385,11.41 6.13846154,11.32 L6.78461538,10.69 C6.96923077,10.51 7.24615385,10.51 7.43076923,10.69 L7.47692308,10.735 L10.0153846,13.39 C10.1076923,13.48 10.2461538,13.48 10.3384615,13.39 L16.5230769,7.135 L16.5692308,7.135 C16.7538462,6.955 17.0307692,6.955 17.2153846,7.135 L17.8615385,7.765 C18.0461538,7.945 18.0461538,8.215 17.8615385,8.395 L10.4769231,15.865 C10.3846154,15.955 10.2923077,16 10.1538462,16 C10.0153846,16 9.92307692,15.955 9.83076923,15.865 L6.23076923,12.085 L6.13846154,11.95 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,458 @@
+.price.buynow.clearfix {
+    height: 50px;
+}
+
+button.filter-product-data {
+    width: 70px;
+    font-size: 15px;
+    height: 30px;
+    line-height: 10px;
+    margin-top: 10px;
+    padding: 0px;
+}
+
+.megamenu a.active {
+    color: #0058b7 !important;
+}
+
+.info-bank img {
+    width: 140px;
+    height: 82px;
+}
+
+.wishlist img {
+    cursor: pointer
+}
+
+.user-picture {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.circle-btn {
+    width: 28px !important;
+    height: 28px !important;
+    border-radius: 14px !important;
+    margin: 2px !important;
+    text-align: center !important;
+    display: inline-block !important;
+    padding: 3px 7px !important;
+}
+
+.edit-password-view {
+    display: none;
+}
+
+#new-notification {
+    cursor: pointer;
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+}
+
+#new-notification .content {
+    border: 1px solid #D9DDE5;
+    background: #e2ebf2;
+    margin-bottom: 10px;
+    width: 300px;
+    padding: 15px;
+}
+
+#new-notification img {
+    width: 20px;
+}
+
+#new-notification .text {
+    overflow: hidden;
+}
+
+#new-notification .text span {
+    font-size: 13px;
+    color: #000000;
+    line-height: 18px;
+    font-weight: 700;
+}
+
+#new-notification .image {
+    max-width: 54px;
+    max-height: 54px;
+    overflow: hidden;
+    float: left;
+    margin-right: 15px;
+}
+
+#box-notification img {
+    max-width: 60px;
+    max-height: 50px;
+}
+
+.box-notification {
+    padding-top: 10px;
+    margin-top: 10px;
+    top: 25px;
+}
+
+#loading {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #e8e8e847;
+    z-index: 9999;
+    text-align: center;
+    display: none;
+}
+
+#loadingBox {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background: #fff;
+    border-radius: 50%;
+    margin-top: 200px;
+}
+
+#loadingIcon {
+    width: 100%;
+    height: 100%;
+}
+
+.messageAuction {
+    width: 100%;
+    background: #0063c5;
+    color: #fff;
+    padding: 3px;
+    display: none;
+}
+
+.error-toast {
+    background: red;
+}
+
+.warning-toast {
+    background: orange;
+}
+
+.success-toast {
+    background: green;
+}
+
+.btn-confirm button {
+    display: inline-block;
+    width: 217px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    background: #3466E6;
+    box-shadow: 0 2px 4px 0 rgba(90, 60, 60, 0.05);
+    border-radius: 18px;
+    color: #fff;
+}
+
+.table-account .table-logistic tr td a.edit {
+    background: #fff;
+    border: 1px solid #e2e2e2;
+    border-radius: 16px;
+    height: 32px;
+    width: 32px;
+    line-height: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+#loadingView {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: #eaeaea47;
+    z-index: 999;
+    display: none;
+}
+
+.loadingBox {
+    width: 90px;
+    height: 91px;
+    background: #fff;
+    margin: auto;
+    top: calc(50% - 45px);
+    position: absolute;
+    left: calc(50% - 45px);
+    border-radius: 50%;
+}
+
+.loadingBox .loadingIcon {
+
+}
+
+.logoIcon {
+    width: 71%;
+    position: absolute;
+    top: 35px;
+    left: 13px;
+}
+
+.table-logistic tr td.list-name {
+    border-bottom: unset;
+    padding: 17px 8px;
+    display: block;
+    display: -webkit-box;
+    height: 20px;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    max-width: 400px;
+}
+
+.order-detail .detail-child {
+    max-height: 550px !important;
+}
+
+.box-chat-order .chat-item .content-chat {
+    width: 100%
+}
+
+.box-chat-order .chat-item .avatar img {
+    border-radius: 50%
+}
+
+.box-chat-order #list-chat {
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.backgroundXyLy {
+    position: fixed;
+    background: #636363bd;
+    height: 100%;
+    z-index: 9;
+    top: 0;
+    display: none;
+    left: 270px;
+    right: 0
+}
+
+.viewBoxXuLy {
+    width: 900px;
+    max-height: 550px;
+    background: #fff;
+    /*margin-left: calc(50% - 585px);*/
+    margin: 30px auto;
+}
+
+.viewBoxXuLyFull {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+}
+
+.logistic-product {
+    padding-left: 40px;
+}
+
+.logistic-product li {
+    background: #eaeaea;
+    padding: 10px !important;
+    margin-top: 3px;
+}
+
+.logistic {
+    padding-left: 15px;
+}
+
+.detail-box .detail-child .item .list-detail-stock li .amount-stock .input-group .dec,
+.detail-box .detail-child .item .list-detail-stock li .amount-stock .input-group .inc {
+    background: #fff !important;
+}
+
+.bg-orange {
+    background: orange !important;
+}
+
+.color-red {
+    color: #b2190b !important;
+}
+
+.color-green {
+    color: green !important;;
+}
+
+.pull-right {
+    display: inline-block;
+    float: right;
+}
+
+.notification .number-notification {
+    font-size: 11px;
+    color: #FFFFFF;
+    background: #D31E27;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    top: -5px;
+    right: -8px;
+}
+
+.lockView {
+    background: #3535355e;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.table-logistic tr td .edit, .table-logistic tr td .lock {
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    border-radius: 16px;
+    height: 32px;
+    width: 32px;
+    line-height: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+.sec_info_account .info-account .top-bar .box-control .services-control {
+    position: relative;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.sec_info_account .info-account .top-bar .box-control .services-control .icon {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.sec_info_account .info-account .top-bar .box-control .services-control ul {
+    position: absolute;
+    top: 195%;
+    width: 300px;
+    right: 0;
+    background-color: #fff;
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.15);
+    z-index: 99;
+}
+
+.sec_info_account .info-account .top-bar .box-control .services-control ul li {
+    border-bottom: 1px solid #eee;
+}
+
+.sec_info_account .info-account .top-bar .box-control .services-control ul li a {
+    padding: 1em;
+    display: block;
+}
+
+select[id='loaiDonHang'] {
+    display: inline-block;
+    width: 200px;
+}
+
+#chiDinhvanChuyen, #btnTaoHoaDon {
+    display: inline-block;
+    width: 150px;
+    font-size: 12px;
+    line-height: 9px;
+    padding: 8px 7px;
+    font-weight: 500;
+    float: right;
+    margin-right: 10px;
+}
+
+.message-qua-sl {
+    display: none;
+}
+
+#taoHoaDon {
+    background: green;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 2px 18px;
+    border-radius: 15px;
+    float: right;
+}
+
+#dsHangCanNhap {
+    overflow: hidden;
+    max-height: unset !important;
+}
+
+#dsTaoHoaDon {
+    overflow-y: hidden;
+    height: 100%;
+    max-height: unset !important;
+}
+
+#dsSpHoaDon {
+    overflow-y: auto;
+    height: 100%;
+}
+
+#dsSpHoaDon {
+    overflow-y: scroll;
+    height: calc(100vh - 120px);
+}
+
+#dsHoaDon {
+    overflow-y: scroll;
+    height: calc(100vh - 340px);
+}
+
+.info-logistic-detail .detail-box .title .count {
+    margin: 0 10px;
+}
+
+.bg3 {
+    background: #ff8b8b;
+}
+
+.bg2 {
+    background: orange;
+}
+
+.bg1 {
+    background: oldlace;
+}
+
+.bg0 {
+    background: palegreen;
+}
+
+#box-show-notification {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+#box-show-notification::-webkit-scrollbar {
+    width: 5px;
+    height: 0;
+}
+
+#box-show-notification::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+#box-show-notification::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+
+.indexElement {
+    background: #ccc;
+    padding: 1px 8px;
+    border-radius: 50%;
+    position: absolute;
+    top: 11px;
+    left: 2px;
+}
+
+.item{
+    position: relative;
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="175px" viewBox="0 0 174 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>checked (6)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="77.3649505" cy="77.3649505" r="77.3649505"></circle>
+        <filter x="-9.4%" y="-8.7%" width="121.3%" height="121.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.194738738   0 0 0 0 0.200906164   0 0 0 0 0.367426658  0 0 0 0.0605185688 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Visual-Logistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04.-Xác-nhận-hoàn-thành-đơn-hàng" transform="translate(-665.000000, -279.000000)">
+            <g id="checked-(6)" transform="translate(673.000000, 286.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#274FB4" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M142.158941,35.1770198 L73.7388713,106.014782 L73.859802,113.630347 L77.0027723,113.630347 L151.104436,53.9139109 C148.928297,47.2654851 145.906257,40.8586139 142.158941,35.1770198 Z" id="Path" fill="#1940A4"></path>
+                <path d="M153.280267,31.792495 L139.620317,18.2534752 C137.80697,16.4401287 134.784931,16.4401287 132.85096,18.2534752 L74.4641485,78.5742574 L49.1994554,53.6723564 C47.3861089,51.8590099 44.3640693,51.8590099 42.430099,53.6723564 L30.3416337,65.6398911 C28.5282871,67.4532376 28.5282871,70.4752772 30.3416337,72.2886238 L70.7168317,112.300723 C71.804901,113.388792 73.2554554,113.751277 74.7060099,113.630347 C76.1565644,113.751277 77.6071188,113.388485 78.6951881,112.300723 L153.280267,38.5618515 C155.093614,36.6275743 155.093614,33.6055347 153.280267,31.792495 Z" id="Path" fill="#4AFF00"></path>
+                <path d="M78.6951881,112.300723 L153.280267,38.5618515 C155.093614,36.748505 155.093614,33.7264653 153.280267,31.9131188 L151.104436,29.8582178 L74.5850792,105.047644 L32.2759109,63.8265446 L30.4625644,65.6398911 C28.6492178,67.4532376 28.6492178,70.4752772 30.4625644,72.2886238 L70.8377624,112.30103 C71.9258317,113.389099 73.3763861,113.751584 74.8269406,113.630653 C76.1565644,113.751277 77.6071188,113.388792 78.6951881,112.300723 Z" id="Path" fill="#3CD000"></path>
+            </g>
+        </g>
+    </g>
+</svg>
